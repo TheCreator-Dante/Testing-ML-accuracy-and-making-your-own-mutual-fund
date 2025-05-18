@@ -97,11 +97,6 @@ cp .env.example .env       # Configure API keys and endpoints
 
 ---
 
-## 🤝 Contributing
-
-Please read \[CONTRIBUTING.md] for contribution guidelines.
-
----
 
 ## 📜 License
 
