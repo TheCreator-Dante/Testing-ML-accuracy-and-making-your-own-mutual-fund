@@ -1,4 +1,4 @@
-# Mutual Fund Optimization and Forecasting
+# Mutual Fund Optimization 
 
 **Institute:** ISI Kolkata, IdeasTIH Department
 
@@ -6,7 +6,7 @@
 
 ## 🔍 Project Overview
 
-This project builds an AI-powered system to forecast mutual fund performance using the past three years of Nifty 100 company data. Data is sourced in real time via the Yahoo Finance (`yfinance`) API, enabling continuous model updates and live forecasting.
+This project tests the accuracy of ML models on the past three years of Nifty 100 company data. Data is sourced in real time via the Yahoo Finance (`yfinance`) API, enabling continuous model updates and live forecasting.
 
 ---
 
