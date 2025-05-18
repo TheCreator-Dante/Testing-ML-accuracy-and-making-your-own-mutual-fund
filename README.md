@@ -56,32 +56,6 @@ This project tests the accuracy of ML models on the past three years of Nifty 1
 
 ---
 
-## 🛠️ Installation & Setup
-
-```bash
-git clone https://github.com/TheCreator-Dante/mutual-fund-forecasting.git
-cd mutual-fund-forecasting
-python3 -m venv venv
-source venv/bin/activate   # On Windows: venv\\Scripts\\activate
-pip install -r requirements.txt
-cp .env.example .env       # Configure API keys and endpoints
-```
-
----
-
-## ⚙️ Usage
-
-* **Run Baseline (ARIMA):**
-  `python src/arima_forecast.py --config config/arima.yaml`
-
-* **Run XGBoost Forecast:**
-  `python src/xgboost_forecast.py --config config/xgb.yaml`
-
-* **Launch Real-Time Pipeline:**
-  `python src/realtime_agent.py`
-
----
-
 ## 📈 Impact
 
 * Simplifies stock forecasting and investing with high-accuracy, real-time mutual fund predictions.
